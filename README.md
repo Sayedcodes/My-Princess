@@ -1,14 +1,15 @@
 # Happy Princess Day 👑
 
-A small, interactive web page I made for **my precious Princess Muskan** to celebrate *Princess Day*.  
+A small, interactive web page I made for **my precious Princess** to celebrate *Princess Day*.  
 It’s a single-page HTML project with multiple “slides” that you can navigate like a mini storybook.
+change the code after the download then add your princess name,ENJOY~
 
 ---
 
 ## 🌐 Live Demo
 
 👉 **Open the website here:**  
-https://myprincess-muskan.edgeone.app/
+https://happy-princess-day.edgeone.app/
 
 *(Best view: Mobile or full-screen on desktop 💖)*
 
